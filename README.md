@@ -48,7 +48,7 @@ This is a list of packages that need to be installed before the notebook can be 
 
 ### Installation
 
-Clone the repo: https://github.com/calvinma888/PySparkML_GradAdmissionsChance.git
+Clone the repo: https://github.com/calvinma888/PySparkML_DiabetesClassification.git
 
 ### Datasets
 The dataset can be found in the cloned repository.
